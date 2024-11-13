@@ -1,0 +1,8 @@
+{
+    "environnement": "dev",
+    "version": 1,
+    "subversion": 0,
+    "deploys": [
+        "profile"
+    ]
+}
